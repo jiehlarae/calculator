@@ -21,7 +21,7 @@ This project is a simple calculator with basic arithmetic operations and additio
 
 ## Links
 - Solution URL: [(https://github.com/jiehlarae/calculator.git)]
-- Live Site URL: [(jiehlarae.github.io/calculator)]
+- Live Site URL: [(https://jiehlarae.github.io/calculator/)]
 
 ## Built With
 - Semantic HTML5 markup
