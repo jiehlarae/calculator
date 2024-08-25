@@ -20,8 +20,8 @@ This project is a simple calculator with basic arithmetic operations and additio
 ![Calculator Screenshot](/sc.png)
 
 ## Links
-- Solution URL: [GitHub Repository]()
-- Live Site URL: [jiehlarae.github.io/calculator]()
+- Solution URL: [(https://github.com/jiehlarae/calculator.git)]
+- Live Site URL: [(jiehlarae.github.io/calculator)]
 
 ## Built With
 - Semantic HTML5 markup
